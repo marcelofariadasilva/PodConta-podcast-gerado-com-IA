@@ -42,5 +42,5 @@ Um robô que representa um agente inteligente, com óculos escuros, um microfone
 👨‍💻 Expert
 
 Marcelo F Silva
-https://www.linkedin.com/in/marcelofariadasilva/
+https://www.linkedin.com/in/marcelofariadasilva/  | 
 https://github.com/marcelofariadasilva
