@@ -38,3 +38,9 @@ Utilize os prompts abaixo para criar um podcast de maneira automatizada seu podc
 🤖 3. Use os prompts de artes no prórpio Colpilot:
 
 Um robô que representa um agente inteligente, com óculos escuros, um microfone profissional de mesa daqueles utilizados em podcasts, num ambiente de podcast, onde o ambiente também remeta ao mesmo tempo seriedade, organização. Com cena cinematográfica, cores neutras no fundo, iluminação perfeita e que não gere reflexos, nítida e bem focada. A face do robô deve também parecer simpática e provocante.
+
+👨‍💻 Expert
+
+Marcelo F Silva
+https://www.linkedin.com/in/marcelofariadasilva/
+https://github.com/marcelofariadasilva
